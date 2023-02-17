@@ -90,7 +90,6 @@ This version is good enough for face recognition system. Adding threshold for Un
 | 3      | Nguyễn Nhật Trường |[truongnn](https://github.com/truong11062002)          | 20522087@gm.uit.edu.vn   |
 | 4      | Lại Chí Thiện |[hiimking1509](https://github.com/laichithien)          | 20520309@gm.uit.edu.vn   |
 | 5      | Lê Việt Thịnh |[levietthinh](https://github.com/levietthinh)          |vietthinh101@gmail.com   |
-| 5      | Trương Thành Thắng |[erwin24092002](https://github.com/erwin24092002)          |20521907@gm.uit.edu.vn   |
   
   # Acknowledgement 
   This project is carried out in order to build and embedded system for door unlocking 10E8 at University of Information Technology - UIT. Further implementation on Raspberry pi 4 will not be updated for privacy concerns. The ONNX model can be used for academic and reproduction purposes only, but any commercial use is prohibited.
