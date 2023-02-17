@@ -88,7 +88,7 @@ This version is good enough for face recognition system. Adding threshold for Un
 | 1      | Nguyễn Đức Anh Phúc |[PhucNDA](https://github.com/PhucNDA)          |phucnda@gmail.com   |
 | 2      | Huỳnh Viết Tuấn Kiệt |[hiimking1509](https://github.com/HiImKing1509)          |20521494@gm.uit.edu.vn   |
 | 3      | Nguyễn Nhật Trường |[truongnn](https://github.com/truong11062002)          | 20522087@gm.uit.edu.vn   |
-| 4      | Lại Chí Thiện |[hiimking1509](https://github.com/laichithien)          | 20520309@gm.uit.edu.vn   |
+| 4      | Lại Chí Thiện |[laichithien](https://github.com/laichithien)          | 20520309@gm.uit.edu.vn   |
 | 5      | Lê Việt Thịnh |[levietthinh](https://github.com/levietthinh)          |vietthinh101@gmail.com   |
   
   # Acknowledgement 
