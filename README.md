@@ -81,7 +81,7 @@ This version is good enough for face recognition system. Adding threshold for Un
     <video src=https://user-images.githubusercontent.com/108280892/219566480-afac4b2a-042d-44b1-8837-06d894567d18.mp4>
 </p>
   
- # Contribution
+ # Contributors
   I want to express sincere thanks to my colleagues at University of Information Technology - UIT for their contribution to this project.
 | Serial | Full name              | Github                                               | Email                   |
 | ------ | ----------------------:|-----------------------------------------------------:|-------------------------:
